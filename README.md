@@ -38,6 +38,7 @@
 
 **Realtime Collabrations** 
 - https://github.com/yjs/yjs
+- https://github.com/partykit/partykit/
 
 **Micro frontend**
 - https://github.com/umijs/qiankun
