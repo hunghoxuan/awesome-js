@@ -47,5 +47,8 @@
 - https://github.com/CyberDex/pixi-game-ui
 - https://github.com/AwesomeWebProjects/pixi-game
 
+**React Components**
+- https://github.com/cookpete/react-player
+
 **Project management**
 - https://huly.io/
