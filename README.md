@@ -30,6 +30,7 @@
 
 **DataGrid**
 - https://github.com/inovua/reactdatagrid
+- https://github.com/archit-p/editable-react-table [Air table liked]
 - https://adazzle.github.io/react-data-grid
 - https://github.com/ag-grid/ag-grid
 
