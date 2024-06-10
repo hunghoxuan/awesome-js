@@ -16,12 +16,14 @@
 - https://react-pdf-viewer.dev/
 
 **HTML Editor**
-- https://github.com/Hufe921/canvas-editor [tested]
-- https://github.com/hunghoxuan/Yoopta-Editor
-- https://github.com/kavinvalli/novel-demo / https://novel.sh/
 - https://editorjs.io/
 - https://github.com/TypeCellOS/BlockNote
+- https://github.com/Hufe921/canvas-editor [tested]
+- https://github.com/toeverything/blocksuite [super]
+- https://github.com/hunghoxuan/Yoopta-Editor
+- https://github.com/kavinvalli/novel-demo / https://novel.sh/
 - https://github.com/editor-js/awesome-editorjs
+- https://github.com/nikgraf/awesome-draft-js
 
 **Form builder**
 - https://github.com/fredoist/typiform/tree/main/src/components/editor
