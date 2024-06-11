@@ -54,5 +54,6 @@
 **React Components**
 - https://github.com/cookpete/react-player
 
-**Project management**
-- https://huly.io/
+**Apps**
+- https://huly.io/ [PM]
+- https://univer.ai/ [Office]
