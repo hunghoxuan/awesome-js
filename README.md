@@ -3,6 +3,7 @@
 - https://www.prismabuilder.io/
   
 **Canvas Editor**
+- https://github.com/tldraw
 - https://nihaojob.github.io/editorDoc/guide/
 - https://github.com/AmitDigga/fabric-video-editor?ref=whitelistai.in
 - https://github.com/CodeHole7/fabricjs-image-editor-origin
