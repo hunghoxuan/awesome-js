@@ -25,6 +25,16 @@
 - https://github.com/kavinvalli/novel-demo / https://novel.sh/
 - https://github.com/editor-js/awesome-editorjs
 - https://github.com/nikgraf/awesome-draft-js
+- https://github.com/udecode/plate [good]
+- https://github.com/unlayer/react-email-editor
+- https://remarkjs.github.io/react-markdown/
+- https://github.com/outline/rich-markdown-editor
+- https://github.com/mdx-editor/editor
+
+**Page Builder**
+- [https://uimix-editor.vercel.app/](https://github.com/uimix-editor/uimix)
+- https://github.com/measuredco/puck
+- https://react-page.github.io/
 
 **Form builder**
 - https://github.com/fredoist/typiform/tree/main/src/components/editor
